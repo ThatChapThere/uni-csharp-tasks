@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "week2_Further_Challenges/1.0.0": {
+        "dependencies": {
+          "week2_Further_ChallengesLibrary": "1.0.0"
+        },
+        "runtime": {
+          "week2_Further_Challenges.dll": {}
+        }
+      },
+      "week2_Further_ChallengesLibrary/1.0.0": {
+        "runtime": {
+          "week2_Further_ChallengesLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "week2_Further_Challenges/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "week2_Further_ChallengesLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

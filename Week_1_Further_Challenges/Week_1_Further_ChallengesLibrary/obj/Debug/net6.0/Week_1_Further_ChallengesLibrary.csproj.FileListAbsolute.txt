@@ -1,0 +1,12 @@
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\bin\Debug\net6.0\Week_1_Further_ChallengesLibrary.deps.json
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\bin\Debug\net6.0\Week_1_Further_ChallengesLibrary.dll
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\bin\Debug\net6.0\Week_1_Further_ChallengesLibrary.pdb
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\obj\Debug\net6.0\Week_1_Further_ChallengesLibrary.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\obj\Debug\net6.0\Week_1_Further_ChallengesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\obj\Debug\net6.0\Week_1_Further_ChallengesLibrary.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\obj\Debug\net6.0\Week_1_Further_ChallengesLibrary.AssemblyInfo.cs
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\obj\Debug\net6.0\Week_1_Further_ChallengesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\obj\Debug\net6.0\Week_1_Further_ChallengesLibrary.dll
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\obj\Debug\net6.0\refint\Week_1_Further_ChallengesLibrary.dll
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\obj\Debug\net6.0\Week_1_Further_ChallengesLibrary.pdb
+C:\Users\Tim\Documents\C# Projects\Week_1_Further_Challenges\Week_1_Further_ChallengesLibrary\obj\Debug\net6.0\ref\Week_1_Further_ChallengesLibrary.dll
