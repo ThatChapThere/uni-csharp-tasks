@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Week_1_Challenge_1Library
-build_property.ProjectDir = C:\Users\Tim\Documents\C# Projects\Week_1_Challenge_1\Week_1_Challenge_1Library\
+build_property.RootNamespace = Week_1_Challenge_1
+build_property.ProjectDir = c:\Users\Tim\Documents\Code\repos\uni-csharp-tasks\Week_1_Challenge_1\Week_1_Challenge_1\
